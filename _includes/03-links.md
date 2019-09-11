@@ -1,1 +1,1 @@
-https://github.com/ChrisVodden
+[Github profile link](https://github.com/ChrisVodden)
